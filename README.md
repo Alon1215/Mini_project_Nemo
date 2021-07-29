@@ -16,7 +16,7 @@ The entities are parsed and extracted using "Nemo" - neural modeling for NER.
   1. Pandas
   2. Numpy
 
-* Full requirements:
+## Requirements:
   * bclm 
   * brotlipy==0.7.0
   * certifi==2021.5.30
